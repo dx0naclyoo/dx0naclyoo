@@ -5,8 +5,8 @@ I am a Python developer specializing in developing backend applications using th
 
 - Programming language: Python
 - Frameworks: FastAPI
-- Databases: PostgreSQL, Redus,
-- ORM: SQLAlchemy
+- Databases: PostgreSQL(psycopg2, asyncpg), Redis,
+- ORM: SQLAlchemy, Alembic
 - Authentication and authorization: JWT, OAuth2
 - Testing: pytest
 - Asynchronous programming: asyncio, aiohttp
