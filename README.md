@@ -14,6 +14,6 @@ I am a Python developer specializing in developing backend applications using th
 
 ## 📫 Contact me
 
-- telegram - https://t.me/dx0naclyoo
-- discord - dx0
+- Telegram - https://t.me/dx0naclyoo
+- Discord - dx0
 
